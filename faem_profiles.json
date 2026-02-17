@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "faem_duo": {
+      "name": "Faem Duo",
+      "description": "Lagos-based duo profile",
+      "location": "Lagos, Nigeria",
+      "type": "duo"
+    }
+  }
+}
