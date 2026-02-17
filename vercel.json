@@ -1,0 +1,10 @@
+{
+  "framework": "vite",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "env": {
+    "VITE_SPOTIFY_EMBED_URL": "@vite_spotify_embed_url",
+    "VITE_YOUTUBE_EMBED_URL": "@vite_youtube_embed_url",
+    "VITE_BANDCAMP_EMBED_URL": "@vite_bandcamp_embed_url"
+  }
+}
